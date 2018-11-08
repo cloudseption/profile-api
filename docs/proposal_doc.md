@@ -12,9 +12,9 @@ _- Patrick_
 ## Topics
 
 - [Profile API server responsibilities](#Profile-Service-Responsibilities)
-- [Outstanding questions](#questions)
+- [Outstanding questions](#Outstanding-Questions)
 - [Proposed endpoints + methods](#api-endpoints)
-- [Implementation + architecture](#implementation-architecture)
+- [Implementation + architecture](#implementation-and-architecture)
     - [API Server](#api-server)
     - [Normal Profile Data](#normal-profile-data)
     - [Profile Images](#profile-images)
@@ -42,7 +42,7 @@ This is a quick sketch of the basic endpoints this API would probably provide. I
 - [.../user/{user-id-or-name}/image](#user/image/) POST
 - [.../user/{user-id-or-name}/badges](#user/badges/) GET
 
-## <a href="#implementation-architecture">Implementation + Architecture</a>
+## <a href="#implementation-architecture">Implementation and Architecture</a>
 There are a few core design issues I've found so far. I have discussions of each of them further down.
 - Providing the API
 - Storing and providing normal profile data (name, bio, etc.)
