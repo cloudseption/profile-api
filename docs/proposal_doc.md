@@ -11,7 +11,7 @@ _- Patrick_
 
 ## Topics
 
-- [Profile API server responsibilities](#responsibilities)
+- [Profile API server responsibilities](#Profile-Service-Responsibilities)
 - [Outstanding questions](#questions)
 - [Proposed endpoints + methods](#api-endpoints)
 - [Implementation + architecture](#implementation-architecture)
